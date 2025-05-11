@@ -1,0 +1,56 @@
+@import url(https://fonts.googleapis.com/css?family=Cal+Sans&display=swap);
+
+body {
+  background: linear-gradient(90deg, #8e29bc 0%, #7722f7 100%);
+  font-family: Cal Sans, serif;
+}
+
+.nav-link {
+  color: rgb(82, 126, 126);
+}
+
+.navbar-nav .nav-link.active {
+  color: aqua;
+}
+
+.navbar-brand img {
+  width: 40px;
+}
+
+.navbar-toggler {
+  background-color: rgb(71, 74, 75);
+}
+
+.card {
+  background: rgb(255, 255, 255);
+}
+
+.card-title a {
+  text-decoration: none;
+  color: black;
+}
+
+.card-text a {
+  text-decoration: none;
+  color: black;
+}
+
+.slide-text {
+  color: #ffffff;
+  margin: auto auto;
+}
+
+.post {
+  color: #ffffffab;
+  background: rgba(48, 30, 66, 0.226);
+}
+
+footer {
+  color: #ffffffab;
+  background: rgba(48, 30, 66, 0.226);
+}
+
+.footer-text {
+  color: #ffffff;
+  margin: auto auto;
+}
